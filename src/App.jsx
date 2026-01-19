@@ -117,14 +117,14 @@ height:100%;
 `
 const ImageDiv = styled.div`
 width:100%;
-height:30%;
+height:40%;
 display:flex;
 justify-content:center;
 margin-bottom:10px;
 margin-top:20px;
 `
 const Image = styled.img`
-width:50%;
+width:40%;
 height:100%;
 
 
